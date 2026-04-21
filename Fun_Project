@@ -1,1 +1,36 @@
+# Student Performance Visualization
+
+## Description
+
+This project visualizes student performance across different subjects using basic graphs.
+
+## Dataset
+
+* Source: Manually created
+* Description: Contains marks of students in Math, Science, and English
+
+## Steps Performed
+
+1. Data Creation
+2. Data Visualization
+3. Analysis using graphs
+
+## Results
+
+* Identified top-performing students
+* Compared subject-wise performance
+
+## Tools Used
+
+* Python
+* Pandas
+* Matplotlib
+
+## Conclusion
+
+This project demonstrates how visualization helps in understanding student performance effectively.
+
+## Author
+
+Niyati Khanna
 
