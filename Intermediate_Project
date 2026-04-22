@@ -1,1 +1,38 @@
 
+# House Price Prediction
+
+## Description
+
+This project predicts house prices based on area and number of bedrooms using machine learning.
+
+## Dataset
+
+* Source: Manually created
+* Description: Contains house area, bedrooms, and price
+
+## Steps Performed
+
+1. Data Cleaning
+2. Exploratory Data Analysis
+3. Visualization
+4. Model Building using Linear Regression
+
+## Results
+
+* Model successfully predicts house prices
+* Mean Absolute Error calculated
+
+## Tools Used
+
+* Python
+* Pandas
+* Matplotlib
+* Scikit-learn
+
+## Conclusion
+
+The project demonstrates basic machine learning techniques for prediction tasks.
+
+## Author
+
+Niyati Khanna
